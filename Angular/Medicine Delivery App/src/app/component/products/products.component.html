@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="row">
+        <ng-container *ngFor="let item of medicine">
+            <div class="card col-md-3">
+                <img src="{{item.Image}}" alt="">
+                <h5 style="white-space: nowrap; overflow:hidden;text-overflow: ellipsis; max-width: 100ch;">{{item.name}}</h5>
+                <p style="white-space: nowrap; overflow:hidden;text-overflow: ellipsis; max-width: 100ch;">Type:{{item.Type}}</p>
+                <p style="white-space: nowrap; overflow:hidden;text-overflow: ellipsis; max-width: 100ch;">Brand:{{item.Brand}}</p>
+                <p style="white-space: nowrap; overflow:hidden;text-overflow: ellipsis; max-width: 100ch;">Dose:{{item.Dose}}</p>
+                <p style="white-space: nowrap; overflow:hidden;text-overflow: ellipsis; max-width: 100ch;">{{item.packing_Type}}</p>
+                <p><strong>Price:</strong>₹{{item.Price}}</p>
+
+                <button class="btn btn-primary"> Add to cart</button>
+                
+            </div>
+            
+            
+        </ng-container>
+        
+    </div>
+</div>

@@ -1,0 +1,47 @@
+<ng-container *ngIf="true">
+    <div class="container">
+        <div class="card-table">
+            <div class="cart-product">
+                <table class="table table-responsive">
+                    <thead>
+                        <tr>
+                            <th>Sr.No</th>
+                            <th>Product Name</th>
+                            <th>Product Image</th>
+                            <th>Description</th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Total</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Brufamal</td>
+                            <td><img style="width: 200px;height: 200px;" src="/assets/Aspirin_150.jpg" alt=""></td>
+                            <td style="width: 25%;">Combo OfferBuy 3 items save 3%;Buy 4 or more save 5%See all productsT&C
+
+                                Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C
+                                
+                                Bank Offer10% Off on Bank of Baroda Mastercard debit card first time transaction, Terms and Con</td>
+                            <th style="width: 12%;">8.79</th>
+                            <td style="width: 12%;">2</td>
+                            <td style="width: 12%;">17.58</td>
+                            <td>
+                                <button class="btn btn-danger"><i class="fas fa-trash-alt"></i> delete</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="4"></td>
+                            <td><button  class="btn btn-danger">Empty Cart</button></td>
+                            <td><button routerLink="/products" class="btn btn-primary">Shop More</button></td>
+                            <td><button class="btn btn-success">Checkout</button></td>
+                            <td><strong>Grand Total :17.58</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</ng-container>

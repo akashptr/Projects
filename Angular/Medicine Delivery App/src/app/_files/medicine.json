@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "Type": "Allopathic",
+        "name": "Aspirin",
+        "Image":"assets/Aspiri.jpg",
+        "Dose": "150 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Phychocare",
+        "packing_Type": "Strips",
+        "Price":"8.79/Strips"
+    },
+
+    {
+        "id": 2,
+        "Type": "Allopathic",
+        "name": "Flupirtine Maleate Capsules",
+        "Image":"assets/Flupirtin Maleate.jpg",
+        "Dose": "100 mg",
+        "Dose_type": "Capsule",
+        "Brand": "Lupitin",
+        "packing_Type": "Strips",
+        "Price": "100/Strip"
+    },
+    
+    {
+        "id": 3,
+        "Type": "Allopathic",
+        "name": "Combiflam",
+        "Image":"assets/Combiflam.jpg",
+        "Dose": "400 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Sanofi",
+        "packing_Type": "Strips",
+        "Price": "38.10/Strip"
+    },
+
+    {
+        "id": 4,
+        "Type": "Allopathic",
+        "name": "Zerodol-SP",
+        "Image":"assets/Zerodol-SP.jpg",
+        "Dose": "100 mg/15 mg/325 mg",
+        "Dose_type": "Tablet",
+        "Brand": "IPCA",
+        "packing_Type": "Strips",
+        "Price": "97.90/Strip"
+    },
+    
+    {
+        "id": 5,
+        "Type": "Allopathic",
+        "name": "Brufamol",
+        "Image":"assets/Brufamol.jpg",
+        "Dose": "325 mg/400 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Menarini",
+        "packing_Type": "Strips",
+        "Price": "9/Strip"
+    },
+    
+    {
+        "id": 6,
+        "Type": "Allopathic",
+        "name": "Dose_typeinal SR",
+        "Image":"assets/Dose_typeinal SR.jpg",
+        "Dose": "1000 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Alembic Pharma",
+        "packing_Type": "Strips",
+        "Price": "19.40/Strip"
+    },
+    
+    {
+        "id": 7,
+        "Type": "Allopathic",
+        "name": "Riomet Od",
+        "Image":"assets/Riomet Od.jpg",
+        "Dose": "1000 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Sun Pharma",
+        "packing_Type": "Strips",
+        "Price":"66.00/Strips"
+    },
+
+    {
+        "id": 8,
+        "Type": "Allopathic",
+        "name": "Metsmall",
+        "Image":"assets/Metsmall.jpg",
+        "Dose": "1000 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Dr. Reddy",
+        "packing_Type": "Strips",
+        "Price": "64.50/Strip"
+    },
+    
+    {
+        "id": 9,
+        "Type": "Allopathic",
+        "name": "Cetapin XR",
+        "Image":"assets/Cetapin XR.jpg",
+        "Dose": "1000 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Sanofi Aventis",
+        "packing_Type": "Strips",
+        "Price": "38.10/Strip"
+    },
+
+    {
+        "id": 10,
+        "Type": "Allopathic",
+        "name": "Xmet SR",
+        "Image":"assets/Xmet SR.jpg",
+        "Dose": "1000 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Glemark",
+        "packing_Type": "Strips",
+        "Price": "55.54/Strip"
+    },
+    
+    {
+        "id": 11,
+        "Type": "Allopathic",
+        "name": "Dibeta SR",
+        "Image":"assets/Dibeta SR.jpg",
+        "Dose": "1 g",
+        "Dose_type": "Tablet",
+        "Brand": "Torrent Pharma",
+        "packing_Type": "Strips",
+        "Price": "38.26/Strip"
+    },
+    
+    {
+        "id": 12,
+        "Type": "Allopathic",
+        "name": "Paracetamol",
+        "Image":"assets/Paracetamol.jpg",
+        "Dose": "650 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Ratiopharm",
+        "packing_Type": "Strips",
+        "Price": "27.00/Strip"
+    },
+
+    {
+        "id": 13,
+        "Type": "Allopathic",
+        "name": "Crocin Advance",
+        "Image":"assets/Crocin Advance.jpg",
+        "Dose": "500 mg",
+        "Dose_type": "Tablet",
+        "Brand": "GSK",
+        "packing_Type": "Strips",
+        "Price":"13.00/Strips"
+    },
+
+    {
+        "id": 14,
+        "Type": "Allopathic",
+        "name": "Pirox DT",
+        "Image":"assets/Pirox.jpg",
+        "Dose": "20 mg",
+        "Dose_type": "Capsule",
+        "Brand": "cipla",
+        "packing_Type": "Strips",
+        "Price": "55.00/Strip"
+    },
+    
+    {
+        "id": 15,
+        "Type": "Allopathic",
+        "name": "Dolonex DT",
+        "Image":"assets/Dolonex.jpg",
+        "Dose": "20 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Pfizer",
+        "packing_Type": "Strips",
+        "Price": "58.51/Strip"
+    },
+
+    {
+        "id": 16,
+        "Type": "Allopathic",
+        "name": "Crocin 120",
+        "Image":"assets/Crocin 120.jpg",
+        "Dose": "120/5ml",
+        "Dose_type": "Syrup",
+        "Brand": "GSK",
+        "packing_Type": "Bottle",
+        "Price": "35.61/bottle"
+    },
+    
+    {
+        "id": 17,
+        "Type": "Allopathic",
+        "name": "Crocin 240",
+        "Image":"assets/Crocin 240.jpg",
+        "Dose":"240/5ml",
+        "Dose_type": "Syrup",
+        "Brand": "GSK",
+        "packing_Type": "Bottle",
+        "Price": "51.56/bottle"
+    },
+    
+    {
+        "id": 18,
+        "Type": "Allopathic",
+        "name": "Calpol 120mg Suspension",
+        "Image":"assets/Calpol 120mg Suspension.jpg",
+        "Dose": "120mg/5ml",
+        "Dose_type": "Syrup",
+        "Brand": "Calpol",
+        "packing_Type": "Bottle",
+        "Price": "35.54/bottle"
+    },
+    
+    {
+        "id": 19,
+        "Type": "Allopathic",
+        "name": "SolvinCold",
+        "Image":"assets/SolvinCold.jpg",
+        "Dose": "130mg/5ml",
+        "Dose_type": "Syrup",
+        "Brand": "IPCA",
+        "packing_Type": "Bottle",
+        "Price":"63.50/Strips"
+    },
+
+    {
+        "id": 20,
+        "Type": "Allopathic",
+        "name": "Cheston Cold",
+        "Image":"assets/Cheston Cold.jpg",
+        "Dose": "125mg/5ml",
+        "Dose_type": "Syrup",
+        "Brand": "Cipla",
+        "packing_Type": "Bottle",
+        "Price": "44.00/Bottle"
+    },
+    
+    {
+        "id": 21,
+        "Type": "Allopathic",
+        "name": "Thyrowel",
+        "Image":"assets/Thyrowel.jpg",
+        "Dose": "405 mg",
+        "Dose_type": "Capsule",
+        "Brand": "abbott",
+        "packing_Type": "Strips",
+        "Price": "138.95/Strip"
+    },
+
+    {
+        "id": 22,
+        "Type": "Herbal",
+        "name": "Thyro Thanks",
+        "Image":"assets/Thyro Thanks.jpg",
+        "Dose": "381 mg",
+        "Dose_type": "Tablet",
+        "Brand": "Cureveda",
+        "packing_Type": "Bottle",
+        "Price": "1494.00/Bottle"
+    },
+    
+    {
+        "id": 23,
+        "Type": "Allopathic",
+        "name": "Reguthyro",
+        "Image":"assets/Reguthyro.jpg",
+        "Dose": "200 g",
+        "Dose_type": "Capsule",
+        "Brand": "Bio Resurge Life",
+        "packing_Type": "Strips",
+        "Price": "80.00/Strip"
+    },
+    
+    {
+        "id": 24,
+        "Type": "Allopathic",
+        "name": "Thyropace",
+        "Image":"assets/Thyropace.jpg",
+        "Dose": "1 g",
+        "Dose_type": "Capsule",
+        "Brand": "Meyer",
+        "packing_Type": "Strips",
+        "Price": "167.00/Strip"
+    }
+
+]

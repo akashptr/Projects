@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "Type": "Allopathic",
+        "Drug_Name": "Aspirin",
+        "Dose": "150 mg",
+        "Form": "Tablet",
+        "Brand": "Ecosprin",
+        "packing_Type": "Strips",
+        "Price":"8.79/Strips"
+    },
+
+    {
+        "id": 2,
+        "Type": "Allopathic",
+        "Drug_Name": "Flupirtine",
+        "Dose": "100 mg",
+        "Form": "Capsule",
+        "Brand": "Eririp",
+        "packing_Type": "Strips",
+        "Price": "100/Strip"
+    },
+    
+    {
+        "id": 3,
+        "Type": "Allopathic",
+        "Drug_Name": "Combiflam",
+        "Dose": "400 mg",
+        "Form": "Tablet",
+        "Brand": "Sanofi",
+        "packing_Type": "Strips",
+        "Price": "38.10/Strip"
+    },
+
+    {
+        "id": 4,
+        "Type": "Allopathic",
+        "Drug_Name": "Zerodol-SP",
+        "Dose": "100 mg/15 mg/325 mg",
+        "Form": "Tablet",
+        "Brand": "IPCA",
+        "packing_Type": "Strips",
+        "Price": "97.90/Strip"
+    },
+    
+    {
+        "id": 5,
+        "Type": "Allopathic",
+        "Drug_Name": "Brufamol",
+        "Dose": "325 mg/400 mg",
+        "Form": "Tablet",
+        "Brand": "Menarini",
+        "packing_Type": "Strips",
+        "Price": "9/Strip"
+    },
+    
+    {
+        "id": 6,
+        "Type": "Allopathic",
+        "Drug_Name": "Forminal SR",
+        "Dose": "1000 mg",
+        "Form": "Tablet",
+        "Brand": "Alembic Pharma",
+        "packing_Type": "Strips",
+        "Price": "19.40/Strip"
+    },
+    
+    {
+        "id": 7,
+        "Type": "Allopathic",
+        "Drug_Name": "Riomet Od",
+        "Dose": "1000 mg",
+        "Form": "Tablet",
+        "Brand": "Sun Pharma",
+        "packing_Type": "Strips",
+        "Price":"66.00/Strips"
+    },
+
+    {
+        "id": 8,
+        "Type": "Allopathic",
+        "Drug_Name": "Metsmall",
+        "Dose": "1000 mg",
+        "Form": "Tablet",
+        "Brand": "Dr. Reddy",
+        "packing_Type": "Strips",
+        "Price": "64.50/Strip"
+    },
+    
+    {
+        "id": 9,
+        "Type": "Allopathic",
+        "Drug_Name": "Cetapin XR",
+        "Dose": "1000 mg",
+        "Form": "Tablet",
+        "Brand": "Sanofi Aventis",
+        "packing_Type": "Strips",
+        "Price": "38.10/Strip"
+    },
+
+    {
+        "id": 10,
+        "Type": "Allopathic",
+        "Drug_Name": "Xmet SR",
+        "Dose": "1000 mg",
+        "Form": "Tablet",
+        "Brand": "Glemark",
+        "packing_Type": "Strips",
+        "Price": "55.54/Strip"
+    },
+    
+    {
+        "id": 11,
+        "Type": "Allopathic",
+        "Drug_Name": "Dibeta SR",
+        "Dose": "1 g",
+        "Form": "Tablet",
+        "Brand": "Torrent Pharma",
+        "packing_Type": "Strips",
+        "Price": "38.26/Strip"
+    },
+    
+    {
+        "id": 12,
+        "Type": "Allopathic",
+        "Drug_Name": "Paracetamol",
+        "Dose": "650 mg",
+        "Form": "Tablet",
+        "Brand": "Ratiopharm",
+        "packing_Type": "Strips",
+        "Price": "27.00/Strip"
+    },
+
+    {
+        "id": 13,
+        "Type": "Allopathic",
+        "Drug_Name": "Crocin Advance",
+        "Dose": "500 mg",
+        "Form": "Tablet",
+        "Brand": "GSK",
+        "packing_Type": "Strips",
+        "Price":"13.00/Strips"
+    },
+
+    {
+        "id": 14,
+        "Type": "Allopathic",
+        "Drug_Name": "Pirox",
+        "Dose": "20 mg",
+        "Form": "Capsule",
+        "Brand": "cipla",
+        "packing_Type": "Strips",
+        "Price": "55.00/Strip"
+    },
+    
+    {
+        "id": 15,
+        "Type": "Allopathic",
+        "Drug_Name": "Dolonex",
+        "Dose": "20 mg",
+        "Form": "Tablet",
+        "Brand": "Pfizer",
+        "packing_Type": "Strips",
+        "Price": "58.51/Strip"
+    },
+
+    {
+        "id": 16,
+        "Type": "Allopathic",
+        "Drug_Name": "Crocin 120",
+        "Dose": "120/5ml",
+        "Form": "Syrup",
+        "Brand": "GSK",
+        "packing_Type": "Bottle",
+        "Price": "35.61/bottle"
+    },
+    
+    {
+        "id": 17,
+        "Type": "Allopathic",
+        "Drug_Name": "Crocin 240",
+        "Dose":"240/5ml",
+        "Form": "Syrup",
+        "Brand": "GSK",
+        "packing_Type": "Bottle",
+        "Price": "51.56/bottle"
+    },
+    
+    {
+        "id": 18,
+        "Type": "Allopathic",
+        "Drug_Name": "Calpol 120mg Suspension",
+        "Dose": "120mg/5ml",
+        "Form": "Syrup",
+        "Brand": "Calpol",
+        "packing_Type": "Bottle",
+        "Price": "35.54/bottle"
+    },
+    
+    {
+        "id": 19,
+        "Type": "Allopathic",
+        "Drug_Name": "SolvinCold",
+        "Dose": "130mg/5ml",
+        "Form": "Syrup",
+        "Brand": "IPCA",
+        "packing_Type": "Bottle",
+        "Price":"63.50/Strips"
+    },
+
+    {
+        "id": 20,
+        "Type": "Allopathic",
+        "Drug_Name": "Cheston Cold",
+        "Dose": "125mg/5ml",
+        "Form": "Syrup",
+        "Brand": "Cipla",
+        "packing_Type": "Bottle",
+        "Price": "44.00/Bottle"
+    },
+    
+    {
+        "id": 21,
+        "Type": "Allopathic",
+        "Drug_Name": "Thyrowel",
+        "Dose": "405 mg",
+        "Form": "Capsule",
+        "Brand": "abbott",
+        "packing_Type": "Strips",
+        "Price": "138.95/Strip"
+    },
+
+    {
+        "id": 22,
+        "Type": "Herbal",
+        "Drug_Name": "Thuro Thanks",
+        "Dose": "381 mg",
+        "Form": "Tablet",
+        "Brand": "Cureveda",
+        "packing_Type": "Bottle",
+        "Price": "1494.00/Bottle"
+    },
+    
+    {
+        "id": 23,
+        "Type": "Allopathic",
+        "Drug_Name": "Reguthyro",
+        "Dose": "200 g",
+        "Form": "Capsule",
+        "Brand": "Bio Resurge Life",
+        "packing_Type": "Strips",
+        "Price": "80.00/Strip"
+    },
+    
+    {
+        "id": 24,
+        "Type": "Allopathic",
+        "Drug_Name": "Thyropace",
+        "Dose": "1 g",
+        "Form": "Capsule",
+        "Brand": "Meyer",
+        "packing_Type": "Strips",
+        "Price": "167.00/Strip"
+    }
+
+]

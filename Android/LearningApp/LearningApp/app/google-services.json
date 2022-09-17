@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050317689975",
+    "project_id": "learning-app-624ce",
+    "storage_bucket": "learning-app-624ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050317689975:android:d51175da514f91ed332272",
+        "android_client_info": {
+          "package_name": "com.live.programming.learningapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050317689975-thrd7rig6nupadt02ujekpp1vramt8m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OpNWGl9FKGpow9vdUArbH51vGIthRzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050317689975-thrd7rig6nupadt02ujekpp1vramt8m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

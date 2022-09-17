@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.LogoutFragment">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@mipmap/app_logo"
+        android:layout_margin="10dp"/>
+    <TextView
+        android:id="@+id/headline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click confirm to logout"
+        android:layout_toRightOf="@id/logo"
+        android:layout_margin="20dp"
+        style="@style/TextAppearance.MaterialComponents.Headline5"/>
+
+    <Button
+        android:id="@+id/btn_confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_margin="20dp"
+        android:layout_marginTop="372dp"
+        android:text="Confirm"/>
+
+    <Button
+        android:id="@+id/btn_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="20dp"
+        android:layout_marginTop="372dp"
+        android:text="Cancel"/>
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/menu_home">
+
+    <fragment
+        android:id="@+id/menu_home"
+        android:name="com.semproject.shoppingnow.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_menu_home_to_productDetailFragment"
+            app:destination="@id/productDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/menu_sign_up"
+        android:name="com.semproject.shoppingnow.SignupFragment"
+        android:label="@string/str_sign_up"
+        tools:layout="@layout/fragment_signup">
+    </fragment>
+
+    <fragment
+        android:id="@+id/menu_sign_in"
+        android:name="com.semproject.shoppingnow.SigninFragment"
+        android:label="@string/str_sign_in"
+        tools:layout="@layout/fragment_signin">
+        <action
+            android:id="@+id/action_menu_sign_in_to_menu_home"
+            app:destination="@id/menu_home"
+            app:popUpTo="@id/menu_sign_in"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/menu_profile"
+        android:name="com.semproject.shoppingnow.ProfileFragment"
+        android:label="@string/str_profile"
+        tools:layout="@layout/fragment_profile" >
+    </fragment>
+
+    <dialog
+        android:id="@+id/menu_logout"
+        android:name="com.semproject.shoppingnow.LogoutFragment"
+        android:label="@string/str_logout"
+        tools:layout="@layout/fragment_logout"/>
+
+    <fragment
+        android:id="@+id/menu_order"
+        android:name="com.semproject.shoppingnow.order.OrderFragment"
+        android:label="@string/order"
+        tools:layout="@layout/fragment_order" />
+    <fragment
+        android:id="@+id/productDetailFragment"
+        android:name="com.semproject.shoppingnow.ProductDetailFragment"
+        android:label="Product Detail"
+        tools:layout="@layout/fragment_product_detail">
+        <argument
+            android:name="productId"
+            app:argType="string" />
+    </fragment>
+
+</navigation>

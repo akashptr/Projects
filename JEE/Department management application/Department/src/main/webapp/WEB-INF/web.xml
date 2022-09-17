@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  	<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+		id="WebApp_ID" version="4.0">
+		
+		<display-name>Department</display-name>
+
+		<welcome-file-list>
+			<welcome-file>index.jsp</welcome-file>
+		</welcome-file-list>
+		
+		<!-- Servlet Declaration -->
+		<servlet>
+			<servlet-name>Department_Add_Servlet</servlet-name>
+			<servlet-class>master.servlet.DeptAddServlet</servlet-class>
+		</servlet>
+		<servlet>
+			<servlet-name>Department_Del_Servlet</servlet-name>
+			<servlet-class>master.servlet.DeptDelServlet</servlet-class>
+		</servlet>
+		
+		<!-- Servlet Mapping -->
+		<servlet-mapping>
+			<servlet-name>Department_Add_Servlet</servlet-name>
+			<url-pattern>/dept_add</url-pattern>
+		</servlet-mapping>
+		<servlet-mapping>
+			<servlet-name>Department_Del_Servlet</servlet-name>
+			<url-pattern>/dept_del</url-pattern>
+		</servlet-mapping>
+		
+	</web-app>
